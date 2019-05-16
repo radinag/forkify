@@ -5,7 +5,7 @@ This great application building project was part of the advanced JavaScript Cour
 
 ## Additional Info
 
-The app was built using HTML, CSS, JavaScript, Axios and food2fork API
+The app was built using HTML, CSS, JavaScript, Axios and food2fork API.
 
 ## Reference
 [Food2Fork API](https://www.food2fork.com/)
